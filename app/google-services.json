@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "511754896541",
+    "firebase_url": "https://flowershop-demo1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flowershop-demo1",
+    "storage_bucket": "flowershop-demo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511754896541:android:ecc3398924fbbeddba4074",
+        "android_client_info": {
+          "package_name": "com.example.flowershop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRyxCypHw40Hvuzxq74yFqYaEZOFKBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
